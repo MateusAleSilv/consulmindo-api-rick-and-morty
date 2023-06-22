@@ -1,0 +1,7 @@
+com\mktech\apirickandmorty\response\CharacterResponse.class
+com\mktech\apirickandmorty\ApiRickAndMortyApp.class
+com\mktech\apirickandmorty\response\LocationResponse.class
+com\mktech\apirickandmorty\controller\RickAndMortyController.class
+com\mktech\apirickandmorty\response\EpisodeResponse.class
+com\mktech\apirickandmorty\client\RickAndMortyClient.class
+com\mktech\apirickandmorty\response\ListOfEpisodesResponse.class
