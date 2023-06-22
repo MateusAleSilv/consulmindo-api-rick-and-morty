@@ -1,0 +1,1 @@
+# consulmindo-api-rick-and-morty
